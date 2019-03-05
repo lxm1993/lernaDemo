@@ -1,0 +1,8 @@
+{
+  "name": "root",
+  "private": true,
+  "devDependencies": {
+    "eslint": "^5.15.1",
+    "lerna": "^3.13.1"
+  }
+}
