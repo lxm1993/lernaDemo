@@ -1,5 +1,5 @@
 {
-  "name": "package2",
+  "name": "lxm-pkg2",
   "version": "1.0.8",
   "description": "",
   "main": "index.js",
@@ -12,5 +12,5 @@
   "devDependencies": {
     "eslint": "^5.15.1"
   },
-  "gitHead": "60eaeb36dae56e0302f465cb10c6b670f40ba387"
+  "gitHead": "8adcd6bbbd6f4eca770c3ee217602c51081da1ac"
 }
